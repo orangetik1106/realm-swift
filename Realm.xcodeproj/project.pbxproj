@@ -429,6 +429,7 @@
 		5DEAA36820212BF90024A6BE /* work_queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 5DEAA36420212AEF0024A6BE /* work_queue.cpp */; };
 		5DEAA36920212BF90024A6BE /* work_queue.hpp in Headers */ = {isa = PBXBuildFile; fileRef = 5DEAA36520212AF00024A6BE /* work_queue.hpp */; };
 		763E8F092BDA3856000F2AF3 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 763E8F082BDA3856000F2AF3 /* PrivacyInfo.xcprivacy */; };
+		766514E72BDA3E60003B5D99 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 763E8F082BDA3856000F2AF3 /* PrivacyInfo.xcprivacy */; };
 		C042A48D1B7522A900771ED2 /* RealmConfigurationTests.mm in Sources */ = {isa = PBXBuildFile; fileRef = C042A48C1B7522A900771ED2 /* RealmConfigurationTests.mm */; };
 		C042A48E1B7522A900771ED2 /* RealmConfigurationTests.mm in Sources */ = {isa = PBXBuildFile; fileRef = C042A48C1B7522A900771ED2 /* RealmConfigurationTests.mm */; };
 		C0CDC0821B38DABA00C5716D /* UtilTests.mm in Sources */ = {isa = PBXBuildFile; fileRef = 021A88311AAFB5BE00EEAC84 /* UtilTests.mm */; };
@@ -2205,6 +2206,7 @@
 			files = (
 				5D659ED21BE04556006515A0 /* CHANGELOG.md in Resources */,
 				5D659ED51BE04556006515A0 /* LICENSE in Resources */,
+				766514E72BDA3E60003B5D99 /* PrivacyInfo.xcprivacy in Resources */,
 				5D6157051BE13CBB00A4BD3F /* strip-frameworks.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
