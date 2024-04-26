@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.license                   = { :type => 'Apache 2.0', :file => 'LICENSE' }
 
   s.dependency 'Realm', "= #{s.version}"
-  s.source_files = 'RealmSwift/*.swift'
+  s.source_files = ['RealmSwift/*.swift', 'PrivacyInfo.xcprivacy']
   s.exclude_files = 'RealmSwift/Nonsync.swift'
 
   s.prepare_command           = 'sh build.sh cocoapods-setup swift'
